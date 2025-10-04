@@ -7,8 +7,7 @@ It contains weekly learning exercises, mini-projects, and unit tests focused on 
 
 * Studying OOP basics
 * Implemented BankAccount class 
-* Wrote unit tests  
--> Next: Learn inheritance and method overriding
+* Wrote unit tests
 
 ## The project structure
 ```
